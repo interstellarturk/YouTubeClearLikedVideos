@@ -1,6 +1,5 @@
 # YouTube-LikedVideos-PlaylistBot
-This bot clear your liked videos playlist on YouTube. / Bu bot sizin YouTube'da ki beğenilen videolar oynatma listenizi temizler.
-
+This bot clear your liked videos playlist on YouTube. 
 Steps: 
 
 1- You need to go your any playlist from the left side of YouTube main page. -I've just tried on liked videos- >
@@ -12,6 +11,7 @@ Steps:
 4- Enjoy! >
 
 
+Bu bot sizin YouTube'da ki beğenilen videolar oynatma listenizi temizler.
 
 Adımlar: >
 
