@@ -10,8 +10,7 @@ Steps:
 3- Click the console tab. Then paste bot codes. >
 
 4- Enjoy! >
-
-
+#
 Bu bot sizin YouTube'da ki beğenilen videolar oynatma listenizi temizler.
 
 Adımlar: >
