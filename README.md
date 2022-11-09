@@ -1,4 +1,4 @@
-# YouTube-LikedVideos-PlaylistBot
+# YouTubeClearLikedVideos
 This bot clear your liked videos playlist on YouTube. 
 
 Steps: 
